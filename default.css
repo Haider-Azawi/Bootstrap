@@ -1,0 +1,27 @@
+#text-container {
+  text-align: left;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-style: groove;
+  border-color: gray;
+}
+
+#paragraph2 {
+  text-align: left;
+  margin-bottom: 40px;
+  border-style: groove;
+  border-color: gray;
+}
+
+#footer {
+  border-top: bold;
+  text-align: left;
+  border-style: groove;
+  border-color: gray;
+  margin-top: 100px;
+}
+
+.col-xs-4 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
